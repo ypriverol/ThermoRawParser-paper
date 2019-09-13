@@ -1,0 +1,795 @@
+Docker image path: index.docker.io/mwalzer/qc-plotter:v0.3
+Cache folder set to /homes/yperez/.singularity/docker
+Creating container runtime...
+Exploding layer: sha256:d3938036b19cfa369e1081a6776b07b54be9612bc4c8fed7f139370c8142b79f.tar.gz
+Docker image path: index.docker.io/mwalzer/qc-plotter:v0.3
+Cache folder set to /homes/yperez/.singularity/docker
+Creating container runtime...
+Exploding layer: sha256:d3938036b19cfa369e1081a6776b07b54be9612bc4c8fed7f139370c8142b79f.tar.gz
+Docker image path: index.docker.io/mwalzer/qc-plotter:v0.3
+Cache folder set to /homes/yperez/.singularity/docker
+Creating container runtime...
+Exploding layer: sha256:d3938036b19cfa369e1081a6776b07b54be9612bc4c8fed7f139370c8142b79f.tar.gz
+Docker image path: index.docker.io/mwalzer/qc-plotter:v0.3
+Cache folder set to /homes/yperez/.singularity/docker
+Docker image path: index.docker.io/mwalzer/qc-plotter:v0.3
+Cache folder set to /homes/yperez/.singularity/docker
+Exploding layer: sha256:a9b30c108bda615dc10e402f62d712f413214ea92c7ec4354cd1cc0f3450bc58.tar.gz
+Creating container runtime...
+Creating container runtime...
+Exploding layer: sha256:a9b30c108bda615dc10e402f62d712f413214ea92c7ec4354cd1cc0f3450bc58.tar.gz
+Exploding layer: sha256:67de21feec183fcd009a5eddc4de8c346ee0f4369a20047f1a302a90716fc741.tar.gz
+Exploding layer: sha256:67de21feec183fcd009a5eddc4de8c346ee0f4369a20047f1a302a90716fc741.tar.gz
+Exploding layer: sha256:d3938036b19cfa369e1081a6776b07b54be9612bc4c8fed7f139370c8142b79f.tar.gz
+Exploding layer: sha256:d3938036b19cfa369e1081a6776b07b54be9612bc4c8fed7f139370c8142b79f.tar.gz
+Exploding layer: sha256:817da545be2ba4bac8f6b4da584bca0fb4844938ecc462b9feab1001b5df7405.tar.gz
+Exploding layer: sha256:817da545be2ba4bac8f6b4da584bca0fb4844938ecc462b9feab1001b5df7405.tar.gz
+Exploding layer: sha256:d967c497ce230b63996a7b1fc6ec95b741aea9348118d3328c676f13be789fa7.tar.gz
+Exploding layer: sha256:d967c497ce230b63996a7b1fc6ec95b741aea9348118d3328c676f13be789fa7.tar.gz
+Exploding layer: sha256:d97ff22af9f3374c5b9435f992be5394f48395395226f1680151bc1d5d4a4e17.tar.gz
+Exploding layer: sha256:d97ff22af9f3374c5b9435f992be5394f48395395226f1680151bc1d5d4a4e17.tar.gz
+Exploding layer: sha256:5607872a3b5d9c60dadd44e21606f540482da2b7aa453d60373508fc6793533b.tar.gz
+Exploding layer: sha256:5607872a3b5d9c60dadd44e21606f540482da2b7aa453d60373508fc6793533b.tar.gz
+Exploding layer: sha256:e0bcc1bab5534be8347888193b8f6881ae98fd46a14123e122124d8988fdb790.tar.gz
+Exploding layer: sha256:e0bcc1bab5534be8347888193b8f6881ae98fd46a14123e122124d8988fdb790.tar.gz
+Exploding layer: sha256:e08186912faf3ce0686d6dbbbc5351d696a3a0008215060c366627d06729d784.tar.gz
+Exploding layer: sha256:5d5289ee7309dda4eca9bf0054a52e0c722a2d7712ffb42f84b4778701039275.tar.gz
+Exploding layer: sha256:e08186912faf3ce0686d6dbbbc5351d696a3a0008215060c366627d06729d784.tar.gz
+Exploding layer: sha256:d7327e50845302d5ed9d21301ddce2d17dc0e335727dee65b46772646c2b1cea.tar.gz
+Exploding layer: sha256:5d5289ee7309dda4eca9bf0054a52e0c722a2d7712ffb42f84b4778701039275.tar.gz
+Exploding layer: sha256:d7327e50845302d5ed9d21301ddce2d17dc0e335727dee65b46772646c2b1cea.tar.gz
+Exploding layer: sha256:ff5694be96dfb89800d3735b3634800911e0f4fa8949e2f45bff2b78f53b7327.tar.gz
+Exploding layer: sha256:ff5694be96dfb89800d3735b3634800911e0f4fa8949e2f45bff2b78f53b7327.tar.gz
+Exploding layer: sha256:214af1e2b8cfe28257789bc3c60caaa023879f3cd5d4ef0df05023c0ac8c9517.tar.gz
+Exploding layer: sha256:214af1e2b8cfe28257789bc3c60caaa023879f3cd5d4ef0df05023c0ac8c9517.tar.gz
+Exploding layer: sha256:d023b81da45be6ec49fd2613c3a7d8849f809ffc3dcdd454220a2b928c64ac50.tar.gz
+Exploding layer: sha256:d023b81da45be6ec49fd2613c3a7d8849f809ffc3dcdd454220a2b928c64ac50.tar.gz
+Exploding layer: sha256:21aadd85e9ba7826384f58f869b5bfd055bb07f081d0b84fd4bbd1cd45a72a79.tar.gz
+Exploding layer: sha256:21aadd85e9ba7826384f58f869b5bfd055bb07f081d0b84fd4bbd1cd45a72a79.tar.gz
+Exploding layer: sha256:783074856279b107f704d590e5c5ab9212ec8c7f428b00fab7265648ccc214fc.tar.gz
+Exploding layer: sha256:783074856279b107f704d590e5c5ab9212ec8c7f428b00fab7265648ccc214fc.tar.gz
+Exploding layer: sha256:db196e2a1cf2f28428bd0353be8a168c9d031ecefa13c882707ff29f896c2931.tar.gz
+Exploding layer: sha256:db196e2a1cf2f28428bd0353be8a168c9d031ecefa13c882707ff29f896c2931.tar.gz
+Exploding layer: sha256:5c993b5b14750204878eedb656a69599f0f2853f6319f6aadabc699c52e48ece.tar.gz
+Exploding layer: sha256:5c993b5b14750204878eedb656a69599f0f2853f6319f6aadabc699c52e48ece.tar.gz
+Exploding layer: sha256:d795ad4a4899677ef0ad75e5f600ed36e4061baf273d8ba14a6411046741601f.tar.gz
+Exploding layer: sha256:d795ad4a4899677ef0ad75e5f600ed36e4061baf273d8ba14a6411046741601f.tar.gz
+Exploding layer: sha256:a9b30c108bda615dc10e402f62d712f413214ea92c7ec4354cd1cc0f3450bc58.tar.gz
+Exploding layer: sha256:67de21feec183fcd009a5eddc4de8c346ee0f4369a20047f1a302a90716fc741.tar.gz
+Exploding layer: sha256:817da545be2ba4bac8f6b4da584bca0fb4844938ecc462b9feab1001b5df7405.tar.gz
+Exploding layer: sha256:d967c497ce230b63996a7b1fc6ec95b741aea9348118d3328c676f13be789fa7.tar.gz
+Exploding layer: sha256:d97ff22af9f3374c5b9435f992be5394f48395395226f1680151bc1d5d4a4e17.tar.gz
+Exploding layer: sha256:5607872a3b5d9c60dadd44e21606f540482da2b7aa453d60373508fc6793533b.tar.gz
+Exploding layer: sha256:e0bcc1bab5534be8347888193b8f6881ae98fd46a14123e122124d8988fdb790.tar.gz
+Exploding layer: sha256:a9b30c108bda615dc10e402f62d712f413214ea92c7ec4354cd1cc0f3450bc58.tar.gz
+Exploding layer: sha256:e08186912faf3ce0686d6dbbbc5351d696a3a0008215060c366627d06729d784.tar.gz
+Exploding layer: sha256:67de21feec183fcd009a5eddc4de8c346ee0f4369a20047f1a302a90716fc741.tar.gz
+Exploding layer: sha256:5d5289ee7309dda4eca9bf0054a52e0c722a2d7712ffb42f84b4778701039275.tar.gz
+Exploding layer: sha256:d7327e50845302d5ed9d21301ddce2d17dc0e335727dee65b46772646c2b1cea.tar.gz
+Exploding layer: sha256:a9b30c108bda615dc10e402f62d712f413214ea92c7ec4354cd1cc0f3450bc58.tar.gz
+Exploding layer: sha256:817da545be2ba4bac8f6b4da584bca0fb4844938ecc462b9feab1001b5df7405.tar.gz
+Exploding layer: sha256:67de21feec183fcd009a5eddc4de8c346ee0f4369a20047f1a302a90716fc741.tar.gz
+Exploding layer: sha256:d967c497ce230b63996a7b1fc6ec95b741aea9348118d3328c676f13be789fa7.tar.gz
+Exploding layer: sha256:d97ff22af9f3374c5b9435f992be5394f48395395226f1680151bc1d5d4a4e17.tar.gz
+Exploding layer: sha256:5607872a3b5d9c60dadd44e21606f540482da2b7aa453d60373508fc6793533b.tar.gz
+Exploding layer: sha256:817da545be2ba4bac8f6b4da584bca0fb4844938ecc462b9feab1001b5df7405.tar.gz
+Exploding layer: sha256:e0bcc1bab5534be8347888193b8f6881ae98fd46a14123e122124d8988fdb790.tar.gz
+Exploding layer: sha256:d967c497ce230b63996a7b1fc6ec95b741aea9348118d3328c676f13be789fa7.tar.gz
+Exploding layer: sha256:e08186912faf3ce0686d6dbbbc5351d696a3a0008215060c366627d06729d784.tar.gz
+Exploding layer: sha256:d97ff22af9f3374c5b9435f992be5394f48395395226f1680151bc1d5d4a4e17.tar.gz
+Exploding layer: sha256:5d5289ee7309dda4eca9bf0054a52e0c722a2d7712ffb42f84b4778701039275.tar.gz
+Exploding layer: sha256:5607872a3b5d9c60dadd44e21606f540482da2b7aa453d60373508fc6793533b.tar.gz
+Exploding layer: sha256:d7327e50845302d5ed9d21301ddce2d17dc0e335727dee65b46772646c2b1cea.tar.gz
+Exploding layer: sha256:e0bcc1bab5534be8347888193b8f6881ae98fd46a14123e122124d8988fdb790.tar.gz
+Exploding layer: sha256:e08186912faf3ce0686d6dbbbc5351d696a3a0008215060c366627d06729d784.tar.gz
+Exploding layer: sha256:5d5289ee7309dda4eca9bf0054a52e0c722a2d7712ffb42f84b4778701039275.tar.gz
+Exploding layer: sha256:d7327e50845302d5ed9d21301ddce2d17dc0e335727dee65b46772646c2b1cea.tar.gz
+Exploding layer: sha256:ff5694be96dfb89800d3735b3634800911e0f4fa8949e2f45bff2b78f53b7327.tar.gz
+Exploding layer: sha256:ff5694be96dfb89800d3735b3634800911e0f4fa8949e2f45bff2b78f53b7327.tar.gz
+Exploding layer: sha256:214af1e2b8cfe28257789bc3c60caaa023879f3cd5d4ef0df05023c0ac8c9517.tar.gz
+Exploding layer: sha256:d023b81da45be6ec49fd2613c3a7d8849f809ffc3dcdd454220a2b928c64ac50.tar.gz
+Exploding layer: sha256:ff5694be96dfb89800d3735b3634800911e0f4fa8949e2f45bff2b78f53b7327.tar.gz
+Exploding layer: sha256:21aadd85e9ba7826384f58f869b5bfd055bb07f081d0b84fd4bbd1cd45a72a79.tar.gz
+Exploding layer: sha256:214af1e2b8cfe28257789bc3c60caaa023879f3cd5d4ef0df05023c0ac8c9517.tar.gz
+Exploding layer: sha256:783074856279b107f704d590e5c5ab9212ec8c7f428b00fab7265648ccc214fc.tar.gz
+Exploding layer: sha256:d023b81da45be6ec49fd2613c3a7d8849f809ffc3dcdd454220a2b928c64ac50.tar.gz
+Exploding layer: sha256:db196e2a1cf2f28428bd0353be8a168c9d031ecefa13c882707ff29f896c2931.tar.gz
+Exploding layer: sha256:214af1e2b8cfe28257789bc3c60caaa023879f3cd5d4ef0df05023c0ac8c9517.tar.gz
+Exploding layer: sha256:21aadd85e9ba7826384f58f869b5bfd055bb07f081d0b84fd4bbd1cd45a72a79.tar.gz
+Exploding layer: sha256:d023b81da45be6ec49fd2613c3a7d8849f809ffc3dcdd454220a2b928c64ac50.tar.gz
+Exploding layer: sha256:783074856279b107f704d590e5c5ab9212ec8c7f428b00fab7265648ccc214fc.tar.gz
+Exploding layer: sha256:db196e2a1cf2f28428bd0353be8a168c9d031ecefa13c882707ff29f896c2931.tar.gz
+Exploding layer: sha256:21aadd85e9ba7826384f58f869b5bfd055bb07f081d0b84fd4bbd1cd45a72a79.tar.gz
+Exploding layer: sha256:783074856279b107f704d590e5c5ab9212ec8c7f428b00fab7265648ccc214fc.tar.gz
+Exploding layer: sha256:db196e2a1cf2f28428bd0353be8a168c9d031ecefa13c882707ff29f896c2931.tar.gz
+Exploding layer: sha256:5c993b5b14750204878eedb656a69599f0f2853f6319f6aadabc699c52e48ece.tar.gz
+Exploding layer: sha256:5c993b5b14750204878eedb656a69599f0f2853f6319f6aadabc699c52e48ece.tar.gz
+Exploding layer: sha256:5c993b5b14750204878eedb656a69599f0f2853f6319f6aadabc699c52e48ece.tar.gz
+Exploding layer: sha256:d795ad4a4899677ef0ad75e5f600ed36e4061baf273d8ba14a6411046741601f.tar.gz
+Exploding layer: sha256:d795ad4a4899677ef0ad75e5f600ed36e4061baf273d8ba14a6411046741601f.tar.gz
+Exploding layer: sha256:d795ad4a4899677ef0ad75e5f600ed36e4061baf273d8ba14a6411046741601f.tar.gz
+Exploding layer: sha256:454b3c261ed66d690426519fadeb5ed3e90f8144e66d27b4deb1efb1a5414fe9.tar.gz
+Exploding layer: sha256:454b3c261ed66d690426519fadeb5ed3e90f8144e66d27b4deb1efb1a5414fe9.tar.gz
+Exploding layer: sha256:38451ee0142f1da520aeeb7754467e5e5f850f1f4dd7e1c70ca29729cd16c32e.tar.gz
+Exploding layer: sha256:38451ee0142f1da520aeeb7754467e5e5f850f1f4dd7e1c70ca29729cd16c32e.tar.gz
+Exploding layer: sha256:454b3c261ed66d690426519fadeb5ed3e90f8144e66d27b4deb1efb1a5414fe9.tar.gz
+Exploding layer: sha256:454b3c261ed66d690426519fadeb5ed3e90f8144e66d27b4deb1efb1a5414fe9.tar.gz
+Exploding layer: sha256:454b3c261ed66d690426519fadeb5ed3e90f8144e66d27b4deb1efb1a5414fe9.tar.gz
+Exploding layer: sha256:38451ee0142f1da520aeeb7754467e5e5f850f1f4dd7e1c70ca29729cd16c32e.tar.gz
+Exploding layer: sha256:38451ee0142f1da520aeeb7754467e5e5f850f1f4dd7e1c70ca29729cd16c32e.tar.gz
+Exploding layer: sha256:38451ee0142f1da520aeeb7754467e5e5f850f1f4dd7e1c70ca29729cd16c32e.tar.gz
+Exploding layer: sha256:38cf00e1af9b34ade9c59fbb13a9a1a1b788797e4be802451e8c8e9b471daf13.tar.gz
+Exploding layer: sha256:31960da8ecaf604fb7b7a2ec070d3aa23a52bc5aa18f80cd752791476afadb76.tar.gz
+Exploding layer: sha256:38cf00e1af9b34ade9c59fbb13a9a1a1b788797e4be802451e8c8e9b471daf13.tar.gz
+Exploding layer: sha256:31960da8ecaf604fb7b7a2ec070d3aa23a52bc5aa18f80cd752791476afadb76.tar.gz
+Exploding layer: sha256:38cf00e1af9b34ade9c59fbb13a9a1a1b788797e4be802451e8c8e9b471daf13.tar.gz
+Exploding layer: sha256:38cf00e1af9b34ade9c59fbb13a9a1a1b788797e4be802451e8c8e9b471daf13.tar.gz
+Exploding layer: sha256:38cf00e1af9b34ade9c59fbb13a9a1a1b788797e4be802451e8c8e9b471daf13.tar.gz
+Exploding layer: sha256:31960da8ecaf604fb7b7a2ec070d3aa23a52bc5aa18f80cd752791476afadb76.tar.gz
+Exploding layer: sha256:31960da8ecaf604fb7b7a2ec070d3aa23a52bc5aa18f80cd752791476afadb76.tar.gz
+Exploding layer: sha256:31960da8ecaf604fb7b7a2ec070d3aa23a52bc5aa18f80cd752791476afadb76.tar.gz
+Exploding layer: sha256:a51d3683b450be6e183297ddefb48689f71cebfe1512d612913e470d63ff470b.tar.gz
+Exploding layer: sha256:1cf27c02893702f36021590c7781a8025dcecc8918b84f747d3e5006bf9ef503.tar.gz
+Exploding layer: sha256:7ce418738f5a8d07ebcfd6d7a603bac63e0940c2aa2cdbed35081be1409ff8b1.tar.gz
+Exploding layer: sha256:a51d3683b450be6e183297ddefb48689f71cebfe1512d612913e470d63ff470b.tar.gz
+Exploding layer: sha256:1cf27c02893702f36021590c7781a8025dcecc8918b84f747d3e5006bf9ef503.tar.gz
+Exploding layer: sha256:7ce418738f5a8d07ebcfd6d7a603bac63e0940c2aa2cdbed35081be1409ff8b1.tar.gz
+Exploding layer: sha256:62542859156f0707df6ae2176d80dba58effd9fcd9e23db935e4850dbc376822.tar.gz
+Exploding layer: sha256:62542859156f0707df6ae2176d80dba58effd9fcd9e23db935e4850dbc376822.tar.gz
+Exploding layer: sha256:a51d3683b450be6e183297ddefb48689f71cebfe1512d612913e470d63ff470b.tar.gz
+Exploding layer: sha256:a51d3683b450be6e183297ddefb48689f71cebfe1512d612913e470d63ff470b.tar.gz
+Exploding layer: sha256:1cf27c02893702f36021590c7781a8025dcecc8918b84f747d3e5006bf9ef503.tar.gz
+Exploding layer: sha256:1cf27c02893702f36021590c7781a8025dcecc8918b84f747d3e5006bf9ef503.tar.gz
+Exploding layer: sha256:7ce418738f5a8d07ebcfd6d7a603bac63e0940c2aa2cdbed35081be1409ff8b1.tar.gz
+Exploding layer: sha256:7ce418738f5a8d07ebcfd6d7a603bac63e0940c2aa2cdbed35081be1409ff8b1.tar.gz
+Exploding layer: sha256:a51d3683b450be6e183297ddefb48689f71cebfe1512d612913e470d63ff470b.tar.gz
+Exploding layer: sha256:1cf27c02893702f36021590c7781a8025dcecc8918b84f747d3e5006bf9ef503.tar.gz
+Exploding layer: sha256:7ce418738f5a8d07ebcfd6d7a603bac63e0940c2aa2cdbed35081be1409ff8b1.tar.gz
+Exploding layer: sha256:62542859156f0707df6ae2176d80dba58effd9fcd9e23db935e4850dbc376822.tar.gz
+Exploding layer: sha256:62542859156f0707df6ae2176d80dba58effd9fcd9e23db935e4850dbc376822.tar.gz
+Exploding layer: sha256:62542859156f0707df6ae2176d80dba58effd9fcd9e23db935e4850dbc376822.tar.gz
+Exploding layer: sha256:72e42ddf15e9c42bb5ae42edd75e5089df2244c87bf9171e90a6a4630e59c6b6.tar.gz
+Exploding layer: sha256:68b253c3621b15658ea1b5d0e173619e64a98d92c0b37727ce4ea1f5249cf096.tar.gz
+Exploding layer: sha256:8f92928035ad11524f971e7b7bcd95a3ff40805a051f94e738c38549d0a714d5.tar.gz
+Exploding layer: sha256:72e42ddf15e9c42bb5ae42edd75e5089df2244c87bf9171e90a6a4630e59c6b6.tar.gz
+Exploding layer: sha256:d53aba9059fa95a79e7fdac5751bbc3863045ebce7f23fb2a49d5c6b00de30a6.tar.gz
+Exploding layer: sha256:b379303be28362a88d891969d6176edbadfdc543483dfb47327e93c02f6f24ae.tar.gz
+Exploding layer: sha256:68b253c3621b15658ea1b5d0e173619e64a98d92c0b37727ce4ea1f5249cf096.tar.gz
+Exploding layer: sha256:8f92928035ad11524f971e7b7bcd95a3ff40805a051f94e738c38549d0a714d5.tar.gz
+Exploding layer: sha256:d53aba9059fa95a79e7fdac5751bbc3863045ebce7f23fb2a49d5c6b00de30a6.tar.gz
+Exploding layer: sha256:b379303be28362a88d891969d6176edbadfdc543483dfb47327e93c02f6f24ae.tar.gz
+Exploding layer: sha256:d230c414ec21450ed77305ae482f6946918df6ae77fc4d247eba2a4534772545.tar.gz
+Exploding layer: sha256:335b038322956deba3e75819f48332b0732a107646eb815fa2365ab904d7108c.tar.gz
+Exploding layer: sha256:72e42ddf15e9c42bb5ae42edd75e5089df2244c87bf9171e90a6a4630e59c6b6.tar.gz
+Exploding layer: sha256:3a79f7e370e9e7ff67c8e377798aa3140f7dc52c93542361281450aa72e3b977.tar.gz
+Exploding layer: sha256:a2f2cd8a1626287361e4589509970a0491330a27bf66052b2cdb8af22f9ac0f7.tar.gz
+Exploding layer: sha256:72e42ddf15e9c42bb5ae42edd75e5089df2244c87bf9171e90a6a4630e59c6b6.tar.gz
+Exploding layer: sha256:68b253c3621b15658ea1b5d0e173619e64a98d92c0b37727ce4ea1f5249cf096.tar.gz
+Exploding layer: sha256:e536e2902e10a43a1817683b6e2fad0c943a61c635ab501e27603f1f1dff712a.tar.gz
+Exploding layer: sha256:010fda23548d8b3579e220a49dc96a32964daad8fca5a1447757d6a700a821c2.tar.gz
+Exploding layer: sha256:560b4f4b590b5596d3ff1feccf2221de7edb9dfd90970a8d6c37b961d8227d7c.tar.gz
+Exploding layer: sha256:72e42ddf15e9c42bb5ae42edd75e5089df2244c87bf9171e90a6a4630e59c6b6.tar.gz
+Exploding layer: sha256:249817effc328d8611ac309a2cb13d51b16e4239d55ce19804e099bead1d35c1.tar.gz
+Exploding layer: sha256:838dfc1bd7c90f06d432a51cd4459649e028a10589baa148bdbe229828081ab2.tar.gz
+Exploding layer: sha256:68b253c3621b15658ea1b5d0e173619e64a98d92c0b37727ce4ea1f5249cf096.tar.gz
+Exploding layer: sha256:68b253c3621b15658ea1b5d0e173619e64a98d92c0b37727ce4ea1f5249cf096.tar.gz
+Exploding layer: sha256:8f92928035ad11524f971e7b7bcd95a3ff40805a051f94e738c38549d0a714d5.tar.gz
+Exploding layer: sha256:8f92928035ad11524f971e7b7bcd95a3ff40805a051f94e738c38549d0a714d5.tar.gz
+Exploding layer: sha256:8f92928035ad11524f971e7b7bcd95a3ff40805a051f94e738c38549d0a714d5.tar.gz
+Exploding layer: sha256:d230c414ec21450ed77305ae482f6946918df6ae77fc4d247eba2a4534772545.tar.gz
+Exploding layer: sha256:335b038322956deba3e75819f48332b0732a107646eb815fa2365ab904d7108c.tar.gz
+Exploding layer: sha256:3a79f7e370e9e7ff67c8e377798aa3140f7dc52c93542361281450aa72e3b977.tar.gz
+Docker image path: index.docker.io/mwalzer/qc-plotter:v0.3
+Cache folder set to /homes/yperez/.singularity/docker
+Exploding layer: sha256:d53aba9059fa95a79e7fdac5751bbc3863045ebce7f23fb2a49d5c6b00de30a6.tar.gz
+Exploding layer: sha256:a2f2cd8a1626287361e4589509970a0491330a27bf66052b2cdb8af22f9ac0f7.tar.gz
+Exploding layer: sha256:b379303be28362a88d891969d6176edbadfdc543483dfb47327e93c02f6f24ae.tar.gz
+Creating container runtime...
+Docker image path: index.docker.io/mwalzer/qc-plotter:v0.3
+Cache folder set to /homes/yperez/.singularity/docker
+Exploding layer: sha256:d3938036b19cfa369e1081a6776b07b54be9612bc4c8fed7f139370c8142b79f.tar.gz
+Exploding layer: sha256:d53aba9059fa95a79e7fdac5751bbc3863045ebce7f23fb2a49d5c6b00de30a6.tar.gz
+Creating container runtime...
+Exploding layer: sha256:b379303be28362a88d891969d6176edbadfdc543483dfb47327e93c02f6f24ae.tar.gz
+Exploding layer: sha256:e536e2902e10a43a1817683b6e2fad0c943a61c635ab501e27603f1f1dff712a.tar.gz
+Exploding layer: sha256:d3938036b19cfa369e1081a6776b07b54be9612bc4c8fed7f139370c8142b79f.tar.gz
+Exploding layer: sha256:010fda23548d8b3579e220a49dc96a32964daad8fca5a1447757d6a700a821c2.tar.gz
+Exploding layer: sha256:d53aba9059fa95a79e7fdac5751bbc3863045ebce7f23fb2a49d5c6b00de30a6.tar.gz
+Exploding layer: sha256:560b4f4b590b5596d3ff1feccf2221de7edb9dfd90970a8d6c37b961d8227d7c.tar.gz
+Exploding layer: sha256:b379303be28362a88d891969d6176edbadfdc543483dfb47327e93c02f6f24ae.tar.gz
+Exploding layer: sha256:249817effc328d8611ac309a2cb13d51b16e4239d55ce19804e099bead1d35c1.tar.gz
+Exploding layer: sha256:a27f3a08957dadfc5bcff30ea60f31e8c1d5d970e822a779500f1c1f784f736d.tar.gz
+Version 2.3.0 of QCExtractor is available at www.OpenMS.de
+Exploding layer: sha256:a9b30c108bda615dc10e402f62d712f413214ea92c7ec4354cd1cc0f3450bc58.tar.gz
+Exploding layer: sha256:67de21feec183fcd009a5eddc4de8c346ee0f4369a20047f1a302a90716fc741.tar.gz
+Exploding layer: sha256:817da545be2ba4bac8f6b4da584bca0fb4844938ecc462b9feab1001b5df7405.tar.gz
+Exploding layer: sha256:d967c497ce230b63996a7b1fc6ec95b741aea9348118d3328c676f13be789fa7.tar.gz
+Exploding layer: sha256:d97ff22af9f3374c5b9435f992be5394f48395395226f1680151bc1d5d4a4e17.tar.gz
+Exploding layer: sha256:5607872a3b5d9c60dadd44e21606f540482da2b7aa453d60373508fc6793533b.tar.gz
+Exploding layer: sha256:e0bcc1bab5534be8347888193b8f6881ae98fd46a14123e122124d8988fdb790.tar.gz
+Exploding layer: sha256:e08186912faf3ce0686d6dbbbc5351d696a3a0008215060c366627d06729d784.tar.gz
+Exploding layer: sha256:5d5289ee7309dda4eca9bf0054a52e0c722a2d7712ffb42f84b4778701039275.tar.gz
+Exploding layer: sha256:d7327e50845302d5ed9d21301ddce2d17dc0e335727dee65b46772646c2b1cea.tar.gz
+Exploding layer: sha256:a9b30c108bda615dc10e402f62d712f413214ea92c7ec4354cd1cc0f3450bc58.tar.gz
+Exploding layer: sha256:67de21feec183fcd009a5eddc4de8c346ee0f4369a20047f1a302a90716fc741.tar.gz
+Exploding layer: sha256:817da545be2ba4bac8f6b4da584bca0fb4844938ecc462b9feab1001b5df7405.tar.gz
+Exploding layer: sha256:d967c497ce230b63996a7b1fc6ec95b741aea9348118d3328c676f13be789fa7.tar.gz
+Exploding layer: sha256:d97ff22af9f3374c5b9435f992be5394f48395395226f1680151bc1d5d4a4e17.tar.gz
+Exploding layer: sha256:d230c414ec21450ed77305ae482f6946918df6ae77fc4d247eba2a4534772545.tar.gz
+Exploding layer: sha256:5607872a3b5d9c60dadd44e21606f540482da2b7aa453d60373508fc6793533b.tar.gz
+Exploding layer: sha256:e0bcc1bab5534be8347888193b8f6881ae98fd46a14123e122124d8988fdb790.tar.gz
+Exploding layer: sha256:e08186912faf3ce0686d6dbbbc5351d696a3a0008215060c366627d06729d784.tar.gz
+Exploding layer: sha256:5d5289ee7309dda4eca9bf0054a52e0c722a2d7712ffb42f84b4778701039275.tar.gz
+Exploding layer: sha256:335b038322956deba3e75819f48332b0732a107646eb815fa2365ab904d7108c.tar.gz
+Exploding layer: sha256:d7327e50845302d5ed9d21301ddce2d17dc0e335727dee65b46772646c2b1cea.tar.gz
+Exploding layer: sha256:d230c414ec21450ed77305ae482f6946918df6ae77fc4d247eba2a4534772545.tar.gz
+Exploding layer: sha256:3a79f7e370e9e7ff67c8e377798aa3140f7dc52c93542361281450aa72e3b977.tar.gz
+Exploding layer: sha256:ff5694be96dfb89800d3735b3634800911e0f4fa8949e2f45bff2b78f53b7327.tar.gz
+Version 2.3.0 of QCExtractor is available at www.OpenMS.de
+Exploding layer: sha256:335b038322956deba3e75819f48332b0732a107646eb815fa2365ab904d7108c.tar.gz
+Exploding layer: sha256:a2f2cd8a1626287361e4589509970a0491330a27bf66052b2cdb8af22f9ac0f7.tar.gz
+Exploding layer: sha256:214af1e2b8cfe28257789bc3c60caaa023879f3cd5d4ef0df05023c0ac8c9517.tar.gz
+Exploding layer: sha256:3a79f7e370e9e7ff67c8e377798aa3140f7dc52c93542361281450aa72e3b977.tar.gz
+Exploding layer: sha256:d023b81da45be6ec49fd2613c3a7d8849f809ffc3dcdd454220a2b928c64ac50.tar.gz
+Exploding layer: sha256:e536e2902e10a43a1817683b6e2fad0c943a61c635ab501e27603f1f1dff712a.tar.gz
+Exploding layer: sha256:010fda23548d8b3579e220a49dc96a32964daad8fca5a1447757d6a700a821c2.tar.gz
+Exploding layer: sha256:21aadd85e9ba7826384f58f869b5bfd055bb07f081d0b84fd4bbd1cd45a72a79.tar.gz
+Exploding layer: sha256:a2f2cd8a1626287361e4589509970a0491330a27bf66052b2cdb8af22f9ac0f7.tar.gz
+Exploding layer: sha256:783074856279b107f704d590e5c5ab9212ec8c7f428b00fab7265648ccc214fc.tar.gz
+Exploding layer: sha256:560b4f4b590b5596d3ff1feccf2221de7edb9dfd90970a8d6c37b961d8227d7c.tar.gz
+Exploding layer: sha256:249817effc328d8611ac309a2cb13d51b16e4239d55ce19804e099bead1d35c1.tar.gz
+Exploding layer: sha256:db196e2a1cf2f28428bd0353be8a168c9d031ecefa13c882707ff29f896c2931.tar.gz
+Exploding layer: sha256:d230c414ec21450ed77305ae482f6946918df6ae77fc4d247eba2a4534772545.tar.gz
+Exploding layer: sha256:81de871d5db1f6323d3139267c5309dd7bdb183cf3afccdaf299a9ee0b1ce80c.tar.gz
+Exploding layer: sha256:ff5694be96dfb89800d3735b3634800911e0f4fa8949e2f45bff2b78f53b7327.tar.gz
+Exploding layer: sha256:e536e2902e10a43a1817683b6e2fad0c943a61c635ab501e27603f1f1dff712a.tar.gz
+Exploding layer: sha256:010fda23548d8b3579e220a49dc96a32964daad8fca5a1447757d6a700a821c2.tar.gz
+Exploding layer: sha256:560b4f4b590b5596d3ff1feccf2221de7edb9dfd90970a8d6c37b961d8227d7c.tar.gz
+Exploding layer: sha256:335b038322956deba3e75819f48332b0732a107646eb815fa2365ab904d7108c.tar.gz
+Exploding layer: sha256:214af1e2b8cfe28257789bc3c60caaa023879f3cd5d4ef0df05023c0ac8c9517.tar.gz
+Exploding layer: sha256:249817effc328d8611ac309a2cb13d51b16e4239d55ce19804e099bead1d35c1.tar.gz
+Exploding layer: sha256:d023b81da45be6ec49fd2613c3a7d8849f809ffc3dcdd454220a2b928c64ac50.tar.gz
+Exploding layer: sha256:e93b25bc0ef0524ea37405b640d3a75050799f1a8ee75f150949aa15f304c16b.tar.gz
+Exploding layer: sha256:3a79f7e370e9e7ff67c8e377798aa3140f7dc52c93542361281450aa72e3b977.tar.gz
+Exploding layer: sha256:21aadd85e9ba7826384f58f869b5bfd055bb07f081d0b84fd4bbd1cd45a72a79.tar.gz
+Exploding layer: sha256:783074856279b107f704d590e5c5ab9212ec8c7f428b00fab7265648ccc214fc.tar.gz
+Exploding layer: sha256:a2f2cd8a1626287361e4589509970a0491330a27bf66052b2cdb8af22f9ac0f7.tar.gz
+Exploding layer: sha256:db196e2a1cf2f28428bd0353be8a168c9d031ecefa13c882707ff29f896c2931.tar.gz
+Exploding layer: sha256:e536e2902e10a43a1817683b6e2fad0c943a61c635ab501e27603f1f1dff712a.tar.gz
+Exploding layer: sha256:010fda23548d8b3579e220a49dc96a32964daad8fca5a1447757d6a700a821c2.tar.gz
+Exploding layer: sha256:560b4f4b590b5596d3ff1feccf2221de7edb9dfd90970a8d6c37b961d8227d7c.tar.gz
+Exploding layer: sha256:249817effc328d8611ac309a2cb13d51b16e4239d55ce19804e099bead1d35c1.tar.gz
+Exploding layer: sha256:eac1a78aee74313828d63b014e5bac3ab3d083067e0954a31b9031c753ba634d.tar.gz
+Exploding layer: sha256:5c993b5b14750204878eedb656a69599f0f2853f6319f6aadabc699c52e48ece.tar.gz
+Exploding layer: sha256:5c993b5b14750204878eedb656a69599f0f2853f6319f6aadabc699c52e48ece.tar.gz
+Exploding layer: sha256:d795ad4a4899677ef0ad75e5f600ed36e4061baf273d8ba14a6411046741601f.tar.gz
+QCExtractor took 1.13 s (wall), 0.95 s (CPU), 0.06 s (system), 0.89 s (user).
+Exploding layer: sha256:d795ad4a4899677ef0ad75e5f600ed36e4061baf273d8ba14a6411046741601f.tar.gz
+Docker image path: index.docker.io/mwalzer/qc-plotter:v0.3
+Cache folder set to /homes/yperez/.singularity/docker
+Docker image path: index.docker.io/mwalzer/qc-plotter:v0.3
+Cache folder set to /homes/yperez/.singularity/docker
+Creating container runtime...
+Creating container runtime...
+Exploding layer: sha256:d3938036b19cfa369e1081a6776b07b54be9612bc4c8fed7f139370c8142b79f.tar.gz
+Exploding layer: sha256:d3938036b19cfa369e1081a6776b07b54be9612bc4c8fed7f139370c8142b79f.tar.gz
+QCExtractor took 0.96 s (wall), 0.93 s (CPU), 0.07 s (system), 0.86 s (user).
+Version 2.3.0 of QCExtractor is available at www.OpenMS.de
+Version 2.3.0 of QCExtractor is available at www.OpenMS.de
+Version 2.3.0 of QCExtractor is available at www.OpenMS.de
+[1]  3 22 41 59 78 96
+[1]  3 22 41 59 78 96
+[1]  3 22 41 59 78 96
+Exploding layer: sha256:a9b30c108bda615dc10e402f62d712f413214ea92c7ec4354cd1cc0f3450bc58.tar.gz
+Exploding layer: sha256:67de21feec183fcd009a5eddc4de8c346ee0f4369a20047f1a302a90716fc741.tar.gz
+Exploding layer: sha256:817da545be2ba4bac8f6b4da584bca0fb4844938ecc462b9feab1001b5df7405.tar.gz
+Exploding layer: sha256:d967c497ce230b63996a7b1fc6ec95b741aea9348118d3328c676f13be789fa7.tar.gz
+Exploding layer: sha256:d97ff22af9f3374c5b9435f992be5394f48395395226f1680151bc1d5d4a4e17.tar.gz
+Exploding layer: sha256:5607872a3b5d9c60dadd44e21606f540482da2b7aa453d60373508fc6793533b.tar.gz
+Exploding layer: sha256:e0bcc1bab5534be8347888193b8f6881ae98fd46a14123e122124d8988fdb790.tar.gz
+Exploding layer: sha256:e08186912faf3ce0686d6dbbbc5351d696a3a0008215060c366627d06729d784.tar.gz
+Exploding layer: sha256:5d5289ee7309dda4eca9bf0054a52e0c722a2d7712ffb42f84b4778701039275.tar.gz
+Exploding layer: sha256:d7327e50845302d5ed9d21301ddce2d17dc0e335727dee65b46772646c2b1cea.tar.gz
+Exploding layer: sha256:a9b30c108bda615dc10e402f62d712f413214ea92c7ec4354cd1cc0f3450bc58.tar.gz
+Exploding layer: sha256:67de21feec183fcd009a5eddc4de8c346ee0f4369a20047f1a302a90716fc741.tar.gz
+Exploding layer: sha256:817da545be2ba4bac8f6b4da584bca0fb4844938ecc462b9feab1001b5df7405.tar.gz
+Exploding layer: sha256:d967c497ce230b63996a7b1fc6ec95b741aea9348118d3328c676f13be789fa7.tar.gz
+Exploding layer: sha256:d97ff22af9f3374c5b9435f992be5394f48395395226f1680151bc1d5d4a4e17.tar.gz
+Exploding layer: sha256:ff5694be96dfb89800d3735b3634800911e0f4fa8949e2f45bff2b78f53b7327.tar.gz
+Exploding layer: sha256:454b3c261ed66d690426519fadeb5ed3e90f8144e66d27b4deb1efb1a5414fe9.tar.gz
+Exploding layer: sha256:5607872a3b5d9c60dadd44e21606f540482da2b7aa453d60373508fc6793533b.tar.gz
+Exploding layer: sha256:e0bcc1bab5534be8347888193b8f6881ae98fd46a14123e122124d8988fdb790.tar.gz
+Exploding layer: sha256:e08186912faf3ce0686d6dbbbc5351d696a3a0008215060c366627d06729d784.tar.gz
+Exploding layer: sha256:5d5289ee7309dda4eca9bf0054a52e0c722a2d7712ffb42f84b4778701039275.tar.gz
+Exploding layer: sha256:214af1e2b8cfe28257789bc3c60caaa023879f3cd5d4ef0df05023c0ac8c9517.tar.gz
+Exploding layer: sha256:d7327e50845302d5ed9d21301ddce2d17dc0e335727dee65b46772646c2b1cea.tar.gz
+Exploding layer: sha256:d023b81da45be6ec49fd2613c3a7d8849f809ffc3dcdd454220a2b928c64ac50.tar.gz
+Exploding layer: sha256:21aadd85e9ba7826384f58f869b5bfd055bb07f081d0b84fd4bbd1cd45a72a79.tar.gz
+Exploding layer: sha256:783074856279b107f704d590e5c5ab9212ec8c7f428b00fab7265648ccc214fc.tar.gz
+Exploding layer: sha256:db196e2a1cf2f28428bd0353be8a168c9d031ecefa13c882707ff29f896c2931.tar.gz
+Exploding layer: sha256:454b3c261ed66d690426519fadeb5ed3e90f8144e66d27b4deb1efb1a5414fe9.tar.gz
+Exploding layer: sha256:ff5694be96dfb89800d3735b3634800911e0f4fa8949e2f45bff2b78f53b7327.tar.gz
+Exploding layer: sha256:214af1e2b8cfe28257789bc3c60caaa023879f3cd5d4ef0df05023c0ac8c9517.tar.gz
+Exploding layer: sha256:d023b81da45be6ec49fd2613c3a7d8849f809ffc3dcdd454220a2b928c64ac50.tar.gz
+Exploding layer: sha256:21aadd85e9ba7826384f58f869b5bfd055bb07f081d0b84fd4bbd1cd45a72a79.tar.gz
+Exploding layer: sha256:783074856279b107f704d590e5c5ab9212ec8c7f428b00fab7265648ccc214fc.tar.gz
+Exploding layer: sha256:db196e2a1cf2f28428bd0353be8a168c9d031ecefa13c882707ff29f896c2931.tar.gz
+null device 
+          1 
+
+------------------------------------------------------------
+Sender: LSF System <lsf@hh-yoda-01-03.ebi.ac.uk>
+Subject: Job 4902425: <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -esiinstability esf_1647.qcML> in cluster <YODA> Done
+
+Job <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -esiinstability esf_1647.qcML> was submitted from host <hh-yoda-08-01.ebi.ac.uk> by user <yperez> in cluster <YODA>.
+Job was executed on host(s) <hh-yoda-01-03.ebi.ac.uk>, in queue <standard>, as user <yperez> in cluster <YODA>.
+</homes/yperez> was used as the home directory.
+</hps/nobackup2/proteomics/conversion_comparison/reviewer_additions/reanalysis_PXD014346/new_qc> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -esiinstability esf_1647.qcML
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   15.72 sec.
+    Max Memory :                                 1 MB
+    Average Memory :                             1.00 MB
+    Total Requested Memory :                     8192.00 MB
+    Delta Memory :                               8191.00 MB
+    Max Swap :                                   247 MB
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   20 sec.
+    Turnaround time :                            70 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <esf_1647.qc.err> for stderr output of this job.
+
+Exploding layer: sha256:5c993b5b14750204878eedb656a69599f0f2853f6319f6aadabc699c52e48ece.tar.gz
+QCExtractor took 1.18 s (wall), 1.02 s (CPU), 0.08 s (system), 0.94 s (user).
+QCExtractor took 1.21 s (wall), 0.95 s (CPU), 0.07 s (system), 0.88 s (user).
+QCExtractor took 1.09 s (wall), 1.07 s (CPU), 0.10 s (system), 0.97 s (user).
+Exploding layer: sha256:38451ee0142f1da520aeeb7754467e5e5f850f1f4dd7e1c70ca29729cd16c32e.tar.gz
+Exploding layer: sha256:5c993b5b14750204878eedb656a69599f0f2853f6319f6aadabc699c52e48ece.tar.gz
+Exploding layer: sha256:d795ad4a4899677ef0ad75e5f600ed36e4061baf273d8ba14a6411046741601f.tar.gz
+Exploding layer: sha256:38451ee0142f1da520aeeb7754467e5e5f850f1f4dd7e1c70ca29729cd16c32e.tar.gz
+Exploding layer: sha256:d795ad4a4899677ef0ad75e5f600ed36e4061baf273d8ba14a6411046741601f.tar.gz
+Exploding layer: sha256:454b3c261ed66d690426519fadeb5ed3e90f8144e66d27b4deb1efb1a5414fe9.tar.gz
+Exploding layer: sha256:454b3c261ed66d690426519fadeb5ed3e90f8144e66d27b4deb1efb1a5414fe9.tar.gz
+Exploding layer: sha256:38451ee0142f1da520aeeb7754467e5e5f850f1f4dd7e1c70ca29729cd16c32e.tar.gz
+Exploding layer: sha256:38451ee0142f1da520aeeb7754467e5e5f850f1f4dd7e1c70ca29729cd16c32e.tar.gz
+Exploding layer: sha256:38cf00e1af9b34ade9c59fbb13a9a1a1b788797e4be802451e8c8e9b471daf13.tar.gz
+Exploding layer: sha256:38cf00e1af9b34ade9c59fbb13a9a1a1b788797e4be802451e8c8e9b471daf13.tar.gz
+Exploding layer: sha256:31960da8ecaf604fb7b7a2ec070d3aa23a52bc5aa18f80cd752791476afadb76.tar.gz
+Exploding layer: sha256:31960da8ecaf604fb7b7a2ec070d3aa23a52bc5aa18f80cd752791476afadb76.tar.gz
+Exploding layer: sha256:38cf00e1af9b34ade9c59fbb13a9a1a1b788797e4be802451e8c8e9b471daf13.tar.gz
+Exploding layer: sha256:38cf00e1af9b34ade9c59fbb13a9a1a1b788797e4be802451e8c8e9b471daf13.tar.gz
+Exploding layer: sha256:31960da8ecaf604fb7b7a2ec070d3aa23a52bc5aa18f80cd752791476afadb76.tar.gz
+Exploding layer: sha256:a51d3683b450be6e183297ddefb48689f71cebfe1512d612913e470d63ff470b.tar.gz
+Exploding layer: sha256:1cf27c02893702f36021590c7781a8025dcecc8918b84f747d3e5006bf9ef503.tar.gz
+Exploding layer: sha256:7ce418738f5a8d07ebcfd6d7a603bac63e0940c2aa2cdbed35081be1409ff8b1.tar.gz
+Exploding layer: sha256:a51d3683b450be6e183297ddefb48689f71cebfe1512d612913e470d63ff470b.tar.gz
+Exploding layer: sha256:31960da8ecaf604fb7b7a2ec070d3aa23a52bc5aa18f80cd752791476afadb76.tar.gz
+Exploding layer: sha256:1cf27c02893702f36021590c7781a8025dcecc8918b84f747d3e5006bf9ef503.tar.gz
+Exploding layer: sha256:7ce418738f5a8d07ebcfd6d7a603bac63e0940c2aa2cdbed35081be1409ff8b1.tar.gz
+Exploding layer: sha256:62542859156f0707df6ae2176d80dba58effd9fcd9e23db935e4850dbc376822.tar.gz
+Exploding layer: sha256:62542859156f0707df6ae2176d80dba58effd9fcd9e23db935e4850dbc376822.tar.gz
+null device 
+          1 
+null device 
+          1 
+
+------------------------------------------------------------
+Sender: LSF System <lsf@hh-yoda-05-02.ebi.ac.uk>
+Subject: Job 4902426: <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -ms1peakcount esf_1647.qcML> in cluster <YODA> Done
+
+Job <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -ms1peakcount esf_1647.qcML> was submitted from host <hh-yoda-08-01.ebi.ac.uk> by user <yperez> in cluster <YODA>.
+Job was executed on host(s) <hh-yoda-05-02.ebi.ac.uk>, in queue <standard>, as user <yperez> in cluster <YODA>.
+</homes/yperez> was used as the home directory.
+</hps/nobackup2/proteomics/conversion_comparison/reviewer_additions/reanalysis_PXD014346/new_qc> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -ms1peakcount esf_1647.qcML
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   20.86 sec.
+    Max Memory :                                 2 MB
+    Average Memory :                             2.00 MB
+    Total Requested Memory :                     8192.00 MB
+    Delta Memory :                               8190.00 MB
+    Max Swap :                                   383 MB
+    Max Processes :                              4
+    Max Threads :                                5
+    Run time :                                   28 sec.
+    Turnaround time :                            77 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <esf_1647.qc.err> for stderr output of this job.
+
+
+------------------------------------------------------------
+Sender: LSF System <lsf@hh-yoda-02-10.ebi.ac.uk>
+Subject: Job 4902430: <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -tic esf_1647.qcML> in cluster <YODA> Done
+
+Job <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -tic esf_1647.qcML> was submitted from host <hh-yoda-08-01.ebi.ac.uk> by user <yperez> in cluster <YODA>.
+Job was executed on host(s) <hh-yoda-02-10.ebi.ac.uk>, in queue <standard>, as user <yperez> in cluster <YODA>.
+</homes/yperez> was used as the home directory.
+</hps/nobackup2/proteomics/conversion_comparison/reviewer_additions/reanalysis_PXD014346/new_qc> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -tic esf_1647.qcML
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   20.86 sec.
+    Max Memory :                                 1 MB
+    Average Memory :                             1.00 MB
+    Total Requested Memory :                     8192.00 MB
+    Delta Memory :                               8191.00 MB
+    Max Swap :                                   247 MB
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   40 sec.
+    Turnaround time :                            77 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <esf_1647.qc.err> for stderr output of this job.
+
+null device 
+          1 
+
+------------------------------------------------------------
+Sender: LSF System <lsf@hh-yoda-05-01.ebi.ac.uk>
+Subject: Job 4902428: <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -ms2peakcount esf_1647.qcML> in cluster <YODA> Done
+
+Job <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -ms2peakcount esf_1647.qcML> was submitted from host <hh-yoda-08-01.ebi.ac.uk> by user <yperez> in cluster <YODA>.
+Job was executed on host(s) <hh-yoda-05-01.ebi.ac.uk>, in queue <standard>, as user <yperez> in cluster <YODA>.
+</homes/yperez> was used as the home directory.
+</hps/nobackup2/proteomics/conversion_comparison/reviewer_additions/reanalysis_PXD014346/new_qc> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -ms2peakcount esf_1647.qcML
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   21.25 sec.
+    Max Memory :                                 2 MB
+    Average Memory :                             2.00 MB
+    Total Requested Memory :                     8192.00 MB
+    Delta Memory :                               8190.00 MB
+    Max Swap :                                   383 MB
+    Max Processes :                              4
+    Max Threads :                                5
+    Run time :                                   37 sec.
+    Turnaround time :                            77 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <esf_1647.qc.err> for stderr output of this job.
+
+Exploding layer: sha256:a51d3683b450be6e183297ddefb48689f71cebfe1512d612913e470d63ff470b.tar.gz
+Exploding layer: sha256:1cf27c02893702f36021590c7781a8025dcecc8918b84f747d3e5006bf9ef503.tar.gz
+Exploding layer: sha256:7ce418738f5a8d07ebcfd6d7a603bac63e0940c2aa2cdbed35081be1409ff8b1.tar.gz
+Exploding layer: sha256:a51d3683b450be6e183297ddefb48689f71cebfe1512d612913e470d63ff470b.tar.gz
+Exploding layer: sha256:1cf27c02893702f36021590c7781a8025dcecc8918b84f747d3e5006bf9ef503.tar.gz
+Exploding layer: sha256:7ce418738f5a8d07ebcfd6d7a603bac63e0940c2aa2cdbed35081be1409ff8b1.tar.gz
+Exploding layer: sha256:62542859156f0707df6ae2176d80dba58effd9fcd9e23db935e4850dbc376822.tar.gz
+Exploding layer: sha256:62542859156f0707df6ae2176d80dba58effd9fcd9e23db935e4850dbc376822.tar.gz
+Exploding layer: sha256:72e42ddf15e9c42bb5ae42edd75e5089df2244c87bf9171e90a6a4630e59c6b6.tar.gz
+Exploding layer: sha256:68b253c3621b15658ea1b5d0e173619e64a98d92c0b37727ce4ea1f5249cf096.tar.gz
+Exploding layer: sha256:72e42ddf15e9c42bb5ae42edd75e5089df2244c87bf9171e90a6a4630e59c6b6.tar.gz
+Exploding layer: sha256:68b253c3621b15658ea1b5d0e173619e64a98d92c0b37727ce4ea1f5249cf096.tar.gz
+Exploding layer: sha256:8f92928035ad11524f971e7b7bcd95a3ff40805a051f94e738c38549d0a714d5.tar.gz
+Exploding layer: sha256:8f92928035ad11524f971e7b7bcd95a3ff40805a051f94e738c38549d0a714d5.tar.gz
+Exploding layer: sha256:d53aba9059fa95a79e7fdac5751bbc3863045ebce7f23fb2a49d5c6b00de30a6.tar.gz
+Exploding layer: sha256:b379303be28362a88d891969d6176edbadfdc543483dfb47327e93c02f6f24ae.tar.gz
+Exploding layer: sha256:d53aba9059fa95a79e7fdac5751bbc3863045ebce7f23fb2a49d5c6b00de30a6.tar.gz
+Exploding layer: sha256:b379303be28362a88d891969d6176edbadfdc543483dfb47327e93c02f6f24ae.tar.gz
+Exploding layer: sha256:d230c414ec21450ed77305ae482f6946918df6ae77fc4d247eba2a4534772545.tar.gz
+Exploding layer: sha256:335b038322956deba3e75819f48332b0732a107646eb815fa2365ab904d7108c.tar.gz
+Exploding layer: sha256:3a79f7e370e9e7ff67c8e377798aa3140f7dc52c93542361281450aa72e3b977.tar.gz
+Exploding layer: sha256:d230c414ec21450ed77305ae482f6946918df6ae77fc4d247eba2a4534772545.tar.gz
+Exploding layer: sha256:a2f2cd8a1626287361e4589509970a0491330a27bf66052b2cdb8af22f9ac0f7.tar.gz
+Exploding layer: sha256:e536e2902e10a43a1817683b6e2fad0c943a61c635ab501e27603f1f1dff712a.tar.gz
+Exploding layer: sha256:335b038322956deba3e75819f48332b0732a107646eb815fa2365ab904d7108c.tar.gz
+Exploding layer: sha256:010fda23548d8b3579e220a49dc96a32964daad8fca5a1447757d6a700a821c2.tar.gz
+Exploding layer: sha256:560b4f4b590b5596d3ff1feccf2221de7edb9dfd90970a8d6c37b961d8227d7c.tar.gz
+Exploding layer: sha256:3a79f7e370e9e7ff67c8e377798aa3140f7dc52c93542361281450aa72e3b977.tar.gz
+Exploding layer: sha256:249817effc328d8611ac309a2cb13d51b16e4239d55ce19804e099bead1d35c1.tar.gz
+Exploding layer: sha256:f02370744d248fe829043752973fd93d99437adf86ff7a15f27e417eef44de9e.tar.gz
+Exploding layer: sha256:a2f2cd8a1626287361e4589509970a0491330a27bf66052b2cdb8af22f9ac0f7.tar.gz
+Exploding layer: sha256:e536e2902e10a43a1817683b6e2fad0c943a61c635ab501e27603f1f1dff712a.tar.gz
+Exploding layer: sha256:010fda23548d8b3579e220a49dc96a32964daad8fca5a1447757d6a700a821c2.tar.gz
+Exploding layer: sha256:560b4f4b590b5596d3ff1feccf2221de7edb9dfd90970a8d6c37b961d8227d7c.tar.gz
+Exploding layer: sha256:249817effc328d8611ac309a2cb13d51b16e4239d55ce19804e099bead1d35c1.tar.gz
+Exploding layer: sha256:d9892c6a6ca946387c30a11cdc9e98a4be7d5587994f079e5cbbdcfc65087a92.tar.gz
+Exploding layer: sha256:72e42ddf15e9c42bb5ae42edd75e5089df2244c87bf9171e90a6a4630e59c6b6.tar.gz
+Exploding layer: sha256:68b253c3621b15658ea1b5d0e173619e64a98d92c0b37727ce4ea1f5249cf096.tar.gz
+Exploding layer: sha256:72e42ddf15e9c42bb5ae42edd75e5089df2244c87bf9171e90a6a4630e59c6b6.tar.gz
+Exploding layer: sha256:8f92928035ad11524f971e7b7bcd95a3ff40805a051f94e738c38549d0a714d5.tar.gz
+Exploding layer: sha256:68b253c3621b15658ea1b5d0e173619e64a98d92c0b37727ce4ea1f5249cf096.tar.gz
+Exploding layer: sha256:8f92928035ad11524f971e7b7bcd95a3ff40805a051f94e738c38549d0a714d5.tar.gz
+Exploding layer: sha256:d53aba9059fa95a79e7fdac5751bbc3863045ebce7f23fb2a49d5c6b00de30a6.tar.gz
+Exploding layer: sha256:b379303be28362a88d891969d6176edbadfdc543483dfb47327e93c02f6f24ae.tar.gz
+Exploding layer: sha256:d53aba9059fa95a79e7fdac5751bbc3863045ebce7f23fb2a49d5c6b00de30a6.tar.gz
+Exploding layer: sha256:b379303be28362a88d891969d6176edbadfdc543483dfb47327e93c02f6f24ae.tar.gz
+Version 2.3.0 of QCExtractor is available at www.OpenMS.de
+Version 2.3.0 of QCExtractor is available at www.OpenMS.de
+Exploding layer: sha256:d230c414ec21450ed77305ae482f6946918df6ae77fc4d247eba2a4534772545.tar.gz
+Exploding layer: sha256:335b038322956deba3e75819f48332b0732a107646eb815fa2365ab904d7108c.tar.gz
+Exploding layer: sha256:3a79f7e370e9e7ff67c8e377798aa3140f7dc52c93542361281450aa72e3b977.tar.gz
+Exploding layer: sha256:a2f2cd8a1626287361e4589509970a0491330a27bf66052b2cdb8af22f9ac0f7.tar.gz
+Exploding layer: sha256:e536e2902e10a43a1817683b6e2fad0c943a61c635ab501e27603f1f1dff712a.tar.gz
+Exploding layer: sha256:010fda23548d8b3579e220a49dc96a32964daad8fca5a1447757d6a700a821c2.tar.gz
+Exploding layer: sha256:560b4f4b590b5596d3ff1feccf2221de7edb9dfd90970a8d6c37b961d8227d7c.tar.gz
+Exploding layer: sha256:249817effc328d8611ac309a2cb13d51b16e4239d55ce19804e099bead1d35c1.tar.gz
+Exploding layer: sha256:428c175acd8711f25ef39f31190bdde8ccfe7b2357ad43a924dc89dd27765aa2.tar.gz
+Exploding layer: sha256:d230c414ec21450ed77305ae482f6946918df6ae77fc4d247eba2a4534772545.tar.gz
+Exploding layer: sha256:335b038322956deba3e75819f48332b0732a107646eb815fa2365ab904d7108c.tar.gz
+Exploding layer: sha256:3a79f7e370e9e7ff67c8e377798aa3140f7dc52c93542361281450aa72e3b977.tar.gz
+Exploding layer: sha256:a2f2cd8a1626287361e4589509970a0491330a27bf66052b2cdb8af22f9ac0f7.tar.gz
+Exploding layer: sha256:e536e2902e10a43a1817683b6e2fad0c943a61c635ab501e27603f1f1dff712a.tar.gz
+Exploding layer: sha256:010fda23548d8b3579e220a49dc96a32964daad8fca5a1447757d6a700a821c2.tar.gz
+Exploding layer: sha256:560b4f4b590b5596d3ff1feccf2221de7edb9dfd90970a8d6c37b961d8227d7c.tar.gz
+Exploding layer: sha256:249817effc328d8611ac309a2cb13d51b16e4239d55ce19804e099bead1d35c1.tar.gz
+Exploding layer: sha256:1cb89efb38fa9f2d2b574f7010ef27d305026a829b3c5645a94f23f1f34d2d58.tar.gz
+QCExtractor took 1.00 s (wall), 0.92 s (CPU), 0.07 s (system), 0.85 s (user).
+QCExtractor took 1.08 s (wall), 0.92 s (CPU), 0.08 s (system), 0.84 s (user).
+Version 2.3.0 of QCExtractor is available at www.OpenMS.de
+Version 2.3.0 of QCExtractor is available at www.OpenMS.de
+null device 
+          1 
+
+------------------------------------------------------------
+Sender: LSF System <lsf@hh-yoda-07-12.ebi.ac.uk>
+Subject: Job 4902433: <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -ms1sn esf_1647.qcML> in cluster <YODA> Done
+
+Job <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -ms1sn esf_1647.qcML> was submitted from host <hh-yoda-08-01.ebi.ac.uk> by user <yperez> in cluster <YODA>.
+Job was executed on host(s) <hh-yoda-07-12.ebi.ac.uk>, in queue <standard>, as user <yperez> in cluster <YODA>.
+</homes/yperez> was used as the home directory.
+</hps/nobackup2/proteomics/conversion_comparison/reviewer_additions/reanalysis_PXD014346/new_qc> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -ms1sn esf_1647.qcML
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   16.20 sec.
+    Max Memory :                                 16 MB
+    Average Memory :                             16.00 MB
+    Total Requested Memory :                     8192.00 MB
+    Delta Memory :                               8176.00 MB
+    Max Swap :                                   465 MB
+    Max Processes :                              4
+    Max Threads :                                5
+    Run time :                                   25 sec.
+    Turnaround time :                            84 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <esf_1647.qc.err> for stderr output of this job.
+
+QCExtractor took 1.22 s (wall), 0.94 s (CPU), 0.08 s (system), 0.86 s (user).
+QCExtractor took 1.03 s (wall), 0.92 s (CPU), 0.08 s (system), 0.84 s (user).
+null device null device 
+
+          1           1 
+
+
+------------------------------------------------------------
+Sender: LSF System <lsf@hh-yoda-01-07.ebi.ac.uk>
+Subject: Job 4902434: <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -ms2sn esf_1647.qcML> in cluster <YODA> Done
+
+Job <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -ms2sn esf_1647.qcML> was submitted from host <hh-yoda-08-01.ebi.ac.uk> by user <yperez> in cluster <YODA>.
+Job was executed on host(s) <hh-yoda-01-07.ebi.ac.uk>, in queue <standard>, as user <yperez> in cluster <YODA>.
+</homes/yperez> was used as the home directory.
+</hps/nobackup2/proteomics/conversion_comparison/reviewer_additions/reanalysis_PXD014346/new_qc> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -ms2sn esf_1647.qcML
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   18.11 sec.
+    Max Memory :                                 3 MB
+    Average Memory :                             3.00 MB
+    Total Requested Memory :                     8192.00 MB
+    Delta Memory :                               8189.00 MB
+    Max Swap :                                   383 MB
+    Max Processes :                              4
+    Max Threads :                                5
+    Run time :                                   26 sec.
+    Turnaround time :                            89 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <esf_1647.qc.err> for stderr output of this job.
+
+
+------------------------------------------------------------
+Sender: LSF System <lsf@hh-yoda-04-05.ebi.ac.uk>
+Subject: Job 4902435: <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -sn esf_1647.qcML> in cluster <YODA> Done
+
+Job <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -sn esf_1647.qcML> was submitted from host <hh-yoda-08-01.ebi.ac.uk> by user <yperez> in cluster <YODA>.
+Job was executed on host(s) <hh-yoda-04-05.ebi.ac.uk>, in queue <standard>, as user <yperez> in cluster <YODA>.
+</homes/yperez> was used as the home directory.
+</hps/nobackup2/proteomics/conversion_comparison/reviewer_additions/reanalysis_PXD014346/new_qc> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -sn esf_1647.qcML
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   18.50 sec.
+    Max Memory :                                 2 MB
+    Average Memory :                             2.00 MB
+    Total Requested Memory :                     8192.00 MB
+    Delta Memory :                               8190.00 MB
+    Max Swap :                                   383 MB
+    Max Processes :                              4
+    Max Threads :                                5
+    Run time :                                   25 sec.
+    Turnaround time :                            89 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <esf_1647.qc.err> for stderr output of this job.
+
+null device 
+          1 
+
+------------------------------------------------------------
+Sender: LSF System <lsf@hh-yoda-03-06.ebi.ac.uk>
+Subject: Job 4902431: <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -chargehistogramidfree esf_1647.qcML> in cluster <YODA> Done
+
+Job <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -chargehistogramidfree esf_1647.qcML> was submitted from host <hh-yoda-08-01.ebi.ac.uk> by user <yperez> in cluster <YODA>.
+Job was executed on host(s) <hh-yoda-03-06.ebi.ac.uk>, in queue <standard>, as user <yperez> in cluster <YODA>.
+</homes/yperez> was used as the home directory.
+</hps/nobackup2/proteomics/conversion_comparison/reviewer_additions/reanalysis_PXD014346/new_qc> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -chargehistogramidfree esf_1647.qcML
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   22.02 sec.
+    Max Memory :                                 2 MB
+    Average Memory :                             2.00 MB
+    Total Requested Memory :                     8192.00 MB
+    Delta Memory :                               8190.00 MB
+    Max Swap :                                   383 MB
+    Max Processes :                              4
+    Max Threads :                                5
+    Run time :                                   27 sec.
+    Turnaround time :                            90 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <esf_1647.qc.err> for stderr output of this job.
+
+null device 
+          1 
+
+------------------------------------------------------------
+Sender: LSF System <lsf@hh-yoda-08-02.ebi.ac.uk>
+Subject: Job 4902424: <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -auctic esf_1647.qcML> in cluster <YODA> Done
+
+Job <singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -auctic esf_1647.qcML> was submitted from host <hh-yoda-08-01.ebi.ac.uk> by user <yperez> in cluster <YODA>.
+Job was executed on host(s) <hh-yoda-08-02.ebi.ac.uk>, in queue <standard>, as user <yperez> in cluster <YODA>.
+</homes/yperez> was used as the home directory.
+</hps/nobackup2/proteomics/conversion_comparison/reviewer_additions/reanalysis_PXD014346/new_qc> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+singularity exec docker://mwalzer/qc-plotter:v0.3 qc_plot.sh -auctic esf_1647.qcML
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   36.53 sec.
+    Max Memory :                                 2 MB
+    Average Memory :                             2.00 MB
+    Total Requested Memory :                     8192.00 MB
+    Delta Memory :                               8190.00 MB
+    Max Swap :                                   383 MB
+    Max Processes :                              4
+    Max Threads :                                5
+    Run time :                                   55 sec.
+    Turnaround time :                            91 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <esf_1647.qc.err> for stderr output of this job.
+
