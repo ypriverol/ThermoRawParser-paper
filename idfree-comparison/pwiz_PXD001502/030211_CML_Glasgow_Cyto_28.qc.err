@@ -1,0 +1,223 @@
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+Loading required package: ggplot2
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+Loading required package: scales
+Loading required package: ggplot2
+Warning messages:
+1: replacing previous import by 'rlang:::=' when loading 'dplyr' 
+2: replacing previous import by 'rlang::.data' when loading 'dplyr' 
+3: replacing previous import by 'rlang::as_label' when loading 'dplyr' 
+4: replacing previous import by 'rlang::as_name' when loading 'dplyr' 
+5: replacing previous import by 'rlang::dots_n' when loading 'dplyr' 
+6: replacing previous import by 'rlang::enquo' when loading 'dplyr' 
+7: replacing previous import by 'rlang::enquos' when loading 'dplyr' 
+8: replacing previous import by 'rlang::expr' when loading 'dplyr' 
+9: replacing previous import by 'rlang::sym' when loading 'dplyr' 
+10: replacing previous import by 'rlang::syms' when loading 'dplyr' 
+Warning messages:
+1: replacing previous import by 'rlang:::=' when loading 'dplyr' 
+2: replacing previous import by 'rlang::.data' when loading 'dplyr' 
+3: replacing previous import by 'rlang::as_label' when loading 'dplyr' 
+4: replacing previous import by 'rlang::as_name' when loading 'dplyr' 
+5: replacing previous import by 'rlang::dots_n' when loading 'dplyr' 
+6: replacing previous import by 'rlang::enquo' when loading 'dplyr' 
+7: replacing previous import by 'rlang::enquos' when loading 'dplyr' 
+8: replacing previous import by 'rlang::expr' when loading 'dplyr' 
+9: replacing previous import by 'rlang::sym' when loading 'dplyr' 
+10: replacing previous import by 'rlang::syms' when loading 'dplyr' 
+Loading required package: chron
+Loading required package: gridExtra
+Loading required package: grid
+Loading required package: pracma
+Warning message:
+Removed 2 rows containing missing values (geom_bar). 
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+Loading required package: scales
+Loading required package: ggplot2
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+Loading required package: ggplot2
+Loading required package: ggplot2
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+Warning messages:
+1: replacing previous import by 'rlang:::=' when loading 'dplyr' 
+2: replacing previous import by 'rlang::.data' when loading 'dplyr' 
+3: replacing previous import by 'rlang::as_label' when loading 'dplyr' 
+4: replacing previous import by 'rlang::as_name' when loading 'dplyr' 
+5: replacing previous import by 'rlang::dots_n' when loading 'dplyr' 
+6: replacing previous import by 'rlang::enquo' when loading 'dplyr' 
+7: replacing previous import by 'rlang::enquos' when loading 'dplyr' 
+8: replacing previous import by 'rlang::expr' when loading 'dplyr' 
+9: replacing previous import by 'rlang::sym' when loading 'dplyr' 
+10: replacing previous import by 'rlang::syms' when loading 'dplyr' 
+Loading required package: chron
+Loading required package: dplyr
+Loading required package: ggplot2
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning messages:
+1: replacing previous import by 'rlang:::=' when loading 'dplyr' 
+2: replacing previous import by 'rlang::.data' when loading 'dplyr' 
+3: replacing previous import by 'rlang::as_label' when loading 'dplyr' 
+4: replacing previous import by 'rlang::as_name' when loading 'dplyr' 
+5: replacing previous import by 'rlang::dots_n' when loading 'dplyr' 
+6: replacing previous import by 'rlang::enquo' when loading 'dplyr' 
+7: replacing previous import by 'rlang::enquos' when loading 'dplyr' 
+8: replacing previous import by 'rlang::expr' when loading 'dplyr' 
+9: replacing previous import by 'rlang::sym' when loading 'dplyr' 
+10: replacing previous import by 'rlang::syms' when loading 'dplyr' 
+Warning messages:
+1: replacing previous import by 'rlang:::=' when loading 'dplyr' 
+2: replacing previous import by 'rlang::.data' when loading 'dplyr' 
+3: replacing previous import by 'rlang::as_label' when loading 'dplyr' 
+4: replacing previous import by 'rlang::as_name' when loading 'dplyr' 
+5: replacing previous import by 'rlang::dots_n' when loading 'dplyr' 
+6: replacing previous import by 'rlang::enquo' when loading 'dplyr' 
+7: replacing previous import by 'rlang::enquos' when loading 'dplyr' 
+8: replacing previous import by 'rlang::expr' when loading 'dplyr' 
+9: replacing previous import by 'rlang::sym' when loading 'dplyr' 
+10: replacing previous import by 'rlang::syms' when loading 'dplyr' 
+Warning messages:
+1: replacing previous import by 'rlang:::=' when loading 'dplyr' 
+2: replacing previous import by 'rlang::.data' when loading 'dplyr' 
+3: replacing previous import by 'rlang::as_label' when loading 'dplyr' 
+4: replacing previous import by 'rlang::as_name' when loading 'dplyr' 
+5: replacing previous import by 'rlang::dots_n' when loading 'dplyr' 
+6: replacing previous import by 'rlang::enquo' when loading 'dplyr' 
+7: replacing previous import by 'rlang::enquos' when loading 'dplyr' 
+8: replacing previous import by 'rlang::expr' when loading 'dplyr' 
+9: replacing previous import by 'rlang::sym' when loading 'dplyr' 
+10: replacing previous import by 'rlang::syms' when loading 'dplyr' 
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+Loading required package: scales
+Warning message:
+Removed 2 rows containing missing values (geom_bar). 
+Loading required package: ggplot2
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+Loading required package: scales
+Warning messages:
+1: replacing previous import by 'rlang:::=' when loading 'dplyr' 
+2: replacing previous import by 'rlang::.data' when loading 'dplyr' 
+3: replacing previous import by 'rlang::as_label' when loading 'dplyr' 
+4: replacing previous import by 'rlang::as_name' when loading 'dplyr' 
+5: replacing previous import by 'rlang::dots_n' when loading 'dplyr' 
+6: replacing previous import by 'rlang::enquo' when loading 'dplyr' 
+7: replacing previous import by 'rlang::enquos' when loading 'dplyr' 
+8: replacing previous import by 'rlang::expr' when loading 'dplyr' 
+9: replacing previous import by 'rlang::sym' when loading 'dplyr' 
+10: replacing previous import by 'rlang::syms' when loading 'dplyr' 
+Loading required package: chron
+Loading required package: ggplot2
+Warning messages:
+1: replacing previous import by 'rlang:::=' when loading 'dplyr' 
+2: replacing previous import by 'rlang::.data' when loading 'dplyr' 
+3: replacing previous import by 'rlang::as_label' when loading 'dplyr' 
+4: replacing previous import by 'rlang::as_name' when loading 'dplyr' 
+5: replacing previous import by 'rlang::dots_n' when loading 'dplyr' 
+6: replacing previous import by 'rlang::enquo' when loading 'dplyr' 
+7: replacing previous import by 'rlang::enquos' when loading 'dplyr' 
+8: replacing previous import by 'rlang::expr' when loading 'dplyr' 
+9: replacing previous import by 'rlang::sym' when loading 'dplyr' 
+10: replacing previous import by 'rlang::syms' when loading 'dplyr' 
+Loading required package: chron
+Loading required package: dplyr
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+Loading required package: ggplot2
+Warning messages:
+1: replacing previous import by 'rlang:::=' when loading 'dplyr' 
+2: replacing previous import by 'rlang::.data' when loading 'dplyr' 
+3: replacing previous import by 'rlang::as_label' when loading 'dplyr' 
+4: replacing previous import by 'rlang::as_name' when loading 'dplyr' 
+5: replacing previous import by 'rlang::dots_n' when loading 'dplyr' 
+6: replacing previous import by 'rlang::enquo' when loading 'dplyr' 
+7: replacing previous import by 'rlang::enquos' when loading 'dplyr' 
+8: replacing previous import by 'rlang::expr' when loading 'dplyr' 
+9: replacing previous import by 'rlang::sym' when loading 'dplyr' 
+10: replacing previous import by 'rlang::syms' when loading 'dplyr' 
+Warning messages:
+1: Removed 8 rows containing non-finite values (stat_bin). 
+2: Removed 8 rows containing non-finite values (stat_density). 
+3: Removed 2 rows containing missing values (geom_bar). 
